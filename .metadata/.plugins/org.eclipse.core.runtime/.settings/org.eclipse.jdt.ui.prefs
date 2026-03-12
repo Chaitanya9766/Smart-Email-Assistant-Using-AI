@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/><rhs name\="org.springframework.http.HttpEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="tools.jackson.core.TreeCodec"><rhs name\="tools.jackson.databind.ObjectMapper"/></lhs><lhs name\="tools.jackson.core.Versioned"><rhs name\="tools.jackson.databind.ObjectMapper"/></lhs><lhs name\="tools.jackson.databind.ObjectMapper"><rhs name\="tools.jackson.databind.ObjectMapper"/></lhs><lhs name\="org.springframework.util.MimeType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="org.springframework.http.MediaType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="org.springframework.web.client.RestOperations"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.http.client.support.InterceptingHttpAccessor"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.http.client.support.HttpAccessor"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.web.client.RestTemplate"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs></history>
+content_assist_number_of_computers=14
+content_assist_proposals_background=52,57,61
+content_assist_proposals_foreground=238,238,238
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
